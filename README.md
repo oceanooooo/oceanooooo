@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div style="float: .left">
     <img height="24" src="https://img.shields.io/badge/SwiftUI-blue"> 
     <img height="24" src="https://img.shields.io/badge/UIKit-blue"> 
-    <img height="24" src="https://img.shields.io/badge/JAVA-blue"> 
+    <img height="24" src="https://img.shields.io/badge/Java-blue"> 
     <img height="24" src="https://img.shields.io/badge/JavaScript-blue"> 
     <img height="24" src="https://img.shields.io/badge/node.js-blue"> 
     <img height="24" src="https://img.shields.io/badge/react.js-blue"> 
